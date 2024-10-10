@@ -9,4 +9,4 @@
 ![image](https://github.com/user-attachments/assets/fefe25f4-a26e-4c2e-9c42-ce49a75a8fbb)
 
 ## 演示
-![image](https://github.com/swvincent8498/translate4CBEC/blob/9e8aa402e7aa05263a9b7a95eaf3b475437b83c7/demo.gif)
+![image](https://github.com/swvincent8498/translate4CBEC/blob/e6b2eeb0b056be90da949c336680efb368d2703b/demo.gif)
